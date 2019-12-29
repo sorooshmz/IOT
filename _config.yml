@@ -1,6 +1,6 @@
 # Site settings
-title: Iran University of Science and Technology
-course_name: "IOT"
+title: IOT
+course_name: IOT
 course_description: The internet of things, or IoT, is a system of interrelated computing devices, mechanical and digital machines, objects, animals or people that are provided with unique identifiers (UIDs) and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction.
 course_semester: "Fall 2019"
 description: |
