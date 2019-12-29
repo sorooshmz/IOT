@@ -1,22 +1,22 @@
 # Site settings
 title: Iran University of Science and Technology
-course_name: Some Course Title
-course_description: Course description.
+course_name: IOT
+course_description: The internet of things, or IoT, is a system of interrelated computing devices, mechanical and digital machines, objects, animals or people that are provided with unique identifiers (UIDs) and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction.
 course_semester: "Fall 2019"
 description: |
-    Instructor: Zhila Sadati
+    Instructor: soroosh mahdizadeh
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "/course_template" # the subpath of your site, e.g. /blog/
-url: "http://sauleh.github.io/course_template" # the base hostname & protocol for your site
-syllabus: http://sauleh.github.io/course_template/syllabus/
+url: "http://sorooshmz.github.io/course_template" # the base hostname & protocol for your site
+syllabus: http://sorooshmz.github.io/course_template/syllabus/
 githubdir: 
 
 # Author/user information
 email: instructor-first-name@iust.ac.ir
-twitter_username: broken_twitter 
-github_username:  broken_github
-authorurl: "http://borken-url.github.io"
+twitter_username: none
+github_username:  sorooshmz
+authorurl: "http://sorooshmz.github.io"
 address: |
     School of Computer Engineering
     Iran University of Science and Technology
