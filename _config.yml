@@ -2,18 +2,18 @@
 title: IOT
 course_name: IOT
 course_description: The internet of things, or IoT, is a system of interrelated computing devices, mechanical and digital machines, objects, animals or people that are provided with unique identifiers (UIDs) and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction.
-course_semester: "Fall 2019"
+course_semester: "Winter 2020"
 description: |
     Instructor: soroosh mahdizadeh
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
-baseurl: "/course_template" # the subpath of your site, e.g. /blog/
-url: "http://sorooshmz.github.io/course_template" # the base hostname & protocol for your site
-syllabus: http://sorooshmz.github.io/course_template/syllabus/
+baseurl: "/IOT" # the subpath of your site, e.g. /blog/
+url: "http://sorooshmz.github.io/IOT" # the base hostname & protocol for your site
+syllabus: http://sorooshmz.github.io/IOT/syllabus/
 githubdir: 
 
 # Author/user information
-email: instructor-first-name@iust.ac.ir
+email: sorooshmz@iust.ac.ir
 twitter_username: none
 github_username:  sorooshmz
 authorurl: "http://sorooshmz.github.io"
