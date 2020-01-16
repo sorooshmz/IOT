@@ -3,6 +3,6 @@ instructor:
   profile_pic: /_images/avatar.png
 
 teaching_assistants:
-  name: soroosh mahdizadeh    
+  -name: soroosh mahdizadeh    
 
     
